@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovicesunuwar&label=Profile%20views&color=0e75b6&style=flat" alt="lovicesunuwar" /> </p>
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 Continuous learning is my lifelong journey, guiding me toward growth and adaptation.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LoviceSunuwar?tab=repositories](https://github.com/LoviceSunuwar?tab=repositories)
 
