@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lovice Sunuwar</h1>
-<h3 align="center">I am a developer who loves solving complex problems and continuously exploring diverse technologies. I have hands-on experience with full-stack development using Java Spring Boot and React, and I’ve also worked extensively with mobile technologies including Swift, SwiftUI, UIKit, Kotlin, Jetpack Compose, Android Java, React Native, MERN Stack, C# with Unity, and Flutter with Dart.</h3>
+<h3 align="center">Well, I am a passionate Full Stack Developer with a strong interest in solving complex problems and continuously exploring new technologies. I thrive in collaborative environments and am dedicated to delivering high-quality software solutions. My focus is on creating impactful applications that enhance user experiences and drive results.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovicesunuwar&label=Profile%20views&color=0e75b6&style=flat" alt="lovicesunuwar" /> </p>
 
