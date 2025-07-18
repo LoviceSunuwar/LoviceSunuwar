@@ -6,10 +6,11 @@ I’m a software developer 💻 who thrives on exploring, building, and constant
 
 ## 👨‍💻 About Me
 - 🏔️ I'm from Nepal 🇳🇵, currently based in Toronto, Canada 🇨🇦  
-- 💻 I develop iOS applications with **SwiftUI** and **UIKit** (hehe 😅 not an Apple fanboy… maybe 🤭)  
+- 💻 I develop iOS applications with **SwiftUI** and **UIKit** 
 - 🧠 I love exploring **ARKit**, **VisionOS**, and **CoreML** — just passion projects and curiosity at work  
 - 🐍 Backend work? Yes please! I use **Python** and **Go**, with **Redis**, **Docker**, and **Kubernetes** as my go-to tools  
-- 🔙 Previously used **Java Spring** and **Python Django** professionally, now diving deep into **Go** — channels, goroutines, mutexes over async/await? Count me in!  
+- Currently using Go — channels, goroutines, mutexes over async/await? Love it!
+Previously worked with Java Spring and Python Django professionally. 
 - 🎮 Lifelong gamer: FIFA, DOTA 2, R6 Siege, Assassin’s Creed, PUBG Mobile, CS — I grew up gaming and still love it  
 - 🕹️ That led me to explore game development with **C#** and **Unity**  
 - 💬 I love bouncing ideas — about life, code, tech, games, travel, whatever!
@@ -17,31 +18,30 @@ I’m a software developer 💻 who thrives on exploring, building, and constant
 ---
 
 ## 💼 What I do
-> I work on iOS apps, backend systems, and play around with machine learning and AR tech. My GitHub is a mix of finished and unfinished projects — it’s all part of learning and growing.
+> I’m all about Go, Swift, and Python — and sometimes Java (JavaScript, not so much). I’m always up for learning new stuff, and I’m not afraid to dive deep into whatever catches my interest.
 
 ---
+
+
+## 🎮 For the Love of Games
+
+> I’ve always been fascinated with how games are made — from mechanics to physics. That curiosity sparked my journey with Unity and C#. Still learning, still having fun.
+
+[See Projects](https://github.com/LoviceSunuwar?tab=repositories&q=unity&type=&language=&sort=)
 
 ## 🚀 Tech Stack
 
 ### Languages  
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)  
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)  ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 
 ### Backend / DevOps  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)  
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) 
+![HTTP](https://img.shields.io/badge/-HTTP-05122A?style=flat&logo=hypertext-transfer-protocol) ![REST API](https://img.shields.io/badge/-REST_API-05122A?style=flat&logo=rest) ![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat&logo=grpc) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq) 
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=github-actions) ![AWS](https://img.shields.io/badge/-AWS_S3-05122A?style=flat&logo=amazon-aws)
 
 ### iOS / ML / AR  
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)  
-![UIKit](https://img.shields.io/badge/-UIKit-05122A?style=flat&logo=apple)  
-![ARKit](https://img.shields.io/badge/-ARKit-05122A?style=flat&logo=apple)  
-![CoreML](https://img.shields.io/badge/-CoreML-05122A?style=flat&logo=apple)  
-![VisionOS](https://img.shields.io/badge/-VisionOS-05122A?style=flat&logo=apple)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift)  ![UIKit](https://img.shields.io/badge/-UIKit-05122A?style=flat&logo=apple)  ![ARKit](https://img.shields.io/badge/-ARKit-05122A?style=flat&logo=apple)  ![CoreML](https://img.shields.io/badge/-CoreML-05122A?style=flat&logo=apple)  ![VisionOS](https://img.shields.io/badge/-VisionOS-05122A?style=flat&logo=apple)
 
 ---
 
@@ -52,16 +52,12 @@ I’m a software developer 💻 who thrives on exploring, building, and constant
 
 ---
 
-## 🎮 For the Love of Games
 
-> I’ve always been fascinated with how games are made — from mechanics to physics. That curiosity sparked my journey with Unity and C#. Still learning, still having fun.
-
----
 
 ## 🤝 Let’s Connect!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lovicesunuwar/">
+<a href="https://www.linkedin.com/in/lovice">
   <img alt="LinkedIn" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 &nbsp;
@@ -73,10 +69,11 @@ I’m a software developer 💻 who thrives on exploring, building, and constant
 ---
 
 <p align="center">
-<i>"Code whatever excites you. It’s meant to be fun."</i> 🧠🎯🧑‍🚀  
+<i>"In case I don’t see ya, good afternoon, good evening, and good night!"</i> 
 <br/><br/>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="40%" title="This is how I feel when I squash a bug (not really lol)" />
+<img src="https://media.giphy.com/media/uOFCju3KRFxwxScVfm/giphy.gif" width="40%" title="This is how I feel when I squash a bug (not really lol)" />
 </p>
+
 
 ---
 
