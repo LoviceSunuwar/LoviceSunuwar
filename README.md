@@ -5,20 +5,20 @@ I’m a software developer 💻 who thrives on exploring, building, and constant
 ---
 
 ## 👨‍💻 About Me
-- 🏔️ I'm from Nepal 🇳🇵, currently based in Toronto, Canada 🇨🇦  
-- 💻 I develop iOS applications with **SwiftUI** and **UIKit** 
-- 🧠 I love exploring **ARKit**, **VisionOS**, and **CoreML** — just passion projects and curiosity at work  
-- 🐍 Backend work? Yes please! I use **Python** and **Go**, with **Redis**, **Docker**, and **Kubernetes** as my go-to tools  
+- 🏔️ I'm from Nepal 🇳🇵, currently based in Toronto, Canada 🇨🇦
+-  Backend work I use **Python** and **Go**, with **Redis**, **Docker**, and **Kubernetes** as my go-to tools  
 - Currently using Go — channels, goroutines, mutexes over async/await? Love it!
 Previously worked with Java Spring and Python Django professionally. 
-- 🎮 Lifelong gamer: FIFA, DOTA 2, R6 Siege, Assassin’s Creed, PUBG Mobile, CS — I grew up gaming and still love it  
+- 💻 iOS applications with **SwiftUI** and **UIKit** 
+- 🧠 I love exploring **ARKit**, **VisionOS**, and **CoreML** — just passion projects and curiosity at work  
+- 🎮 Cooldown Techniques: FIFA, DOTA 2, R6 Siege, Assassin’s Creed, PUBG Mobile, CS — I grew up gaming and still love it  
 - 🕹️ That led me to explore game development with **C#** and **Unity**  
 - 💬 I love bouncing ideas — about life, code, tech, games, travel, whatever!
 
 ---
 
 ## 💼 What I do
-> I’m all about Go, Swift, and Python — and sometimes Java (JavaScript, not so much). I’m always up for learning new stuff, and I’m not afraid to dive deep into whatever catches my interest.
+> I’m all about Go, Swift, and Python — sometimes Java and Javascript. I’m always up for learning new stuff, and I’m not afraid to dive deep into whatever catches my interest.
 
 ---
 
@@ -47,8 +47,7 @@ Previously worked with Java Spring and Python Django professionally.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoviceSunuwar&theme=tokyonight&layout=compact" width="35%" />
-<img src="https://github-readme-stats.vercel.app/api?username=LoviceSunuwar&show_icons=true&theme=tokyonight" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoviceSunuwar&theme=tokyonight&layout=compact" width="35%" /> <img src="https://github-readme-stats.vercel.app/api?username=LoviceSunuwar&show_icons=true&theme=tokyonight" width="60%" />
 
 ---
 
@@ -62,7 +61,7 @@ Previously worked with Java Spring and Python Django professionally.
 </a>
 &nbsp;
 <a href="mailto:lovicesunuwar@gmail.com">
-  <img alt="Email" width="32" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />
+  <img alt="Email" width="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 </p>
 
@@ -79,7 +78,5 @@ Previously worked with Java Spring and Python Django professionally.
 
 <div align="right">
   
-![Profile Views](https://komarev.com/ghpvc/?username=LoviceSunuwar&label=Profile%20views&color=0e75b6&style=flat)
-
-[![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/LoviceSunuwar)
+![Profile Views](https://komarev.com/ghpvc/?username=LoviceSunuwar&label=Profile%20views&color=0e75b6&style=flat) [![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/LoviceSunuwar)
 </div>
